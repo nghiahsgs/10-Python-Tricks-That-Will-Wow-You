@@ -79,3 +79,5 @@ ans=fun1(5,6,9,6,9,6,6)
 name="Pranjal Saxena"
 print(name[::-1])
 ```
+
+ref https://betterprogramming.pub/10-python-tricks-that-will-wow-you-de450921d96a
