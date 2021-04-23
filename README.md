@@ -1,7 +1,7 @@
 # 10-Python-Tricks-That-Will-Wow-You
 10 Python Tricks That Will Wow You
 
-1. Condition Inside the print Function
+## 1. Condition Inside the print Function
 ```
 print("odd" if int(input("Enter a num: "))%2 else "even")
 ```
